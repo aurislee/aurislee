@@ -1,4 +1,4 @@
-### As the saying goes, The palest ink is better than the best memory. 👋
+### 👋 As the saying goes, The palest ink is better than the best memory. 👋
 
 <!--
 **aurislee/aurislee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
