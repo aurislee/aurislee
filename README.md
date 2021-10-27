@@ -1,4 +1,5 @@
-### 👋 As the saying goes, The palest ink is better than the best memory. 👋
+<h3 align = "center">👋 As the saying goes, The palest ink is better than the best memory. 👋</h3>
+<br/>
 
 <!--
 **aurislee/aurislee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
