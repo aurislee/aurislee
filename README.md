@@ -14,4 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 - 🥠 
+-
+
+<p align="center"><img src="https://github.com/aurislee/aurislee/blob/531e055695362d2bb02ea2e0da3d4f8dd01a6cf6/qrcode.jpg" alt="有问题可以添加" height="100px"></p>
 <h3 align = "center">🥩🥩🥩 May all your efforts be fruitful 🍖🍖🍖</h3>
